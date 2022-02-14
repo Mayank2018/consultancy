@@ -5,8 +5,11 @@
   }
   
   body {
-    background-color: rgb(71 85 105);
-   /* background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%);*/
+    /*background-color: rgb(253 186 116);
+   /* background-color: rgb(71 85 105);
+   /* background: linear-gradient(to right, #ea1d6f 0%, #eb466b 100%);
+  /* background-image: linear-gradient(to top, #370535, #881744, #cb4d37, #eb980c, #dceb12);*/
+   background-image: linear-gradient(to top, #190537, #351062, #58178f, #8119bd, #ae12eb);
     font-size: 12px;
   }
   
@@ -29,7 +32,7 @@
   
   .screen {
     position: relative;
-    background: #3e3e3e;
+    background: white;
     border-radius: 15px;
   }
   
@@ -150,7 +153,7 @@
     background: none;
     border: none;
     border-bottom: 1px solid #666;
-    color: #ddd;
+    color: rgb(0, 0, 0);
     font-size: 14px;
     text-transform: uppercase;
     outline: none;
